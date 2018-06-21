@@ -1,6 +1,6 @@
 {
   "name": "mousejiggler",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple module to keep the machine awake by moving the mouse cursor. ",
   "main": "index.js",
   "scripts": {
