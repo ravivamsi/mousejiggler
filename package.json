@@ -1,0 +1,14 @@
+{
+  "name": "mousejiggler",
+  "version": "1.0.0",
+  "description": "Simple module to keep the machine awake by moving the mouse cursor. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aarvy",
+  "license": "ISC",
+  "dependencies": {
+    "node_mouse": "0.0.1"
+  }
+}
